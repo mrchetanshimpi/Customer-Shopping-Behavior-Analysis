@@ -1,6 +1,7 @@
 # Customer-Shopping-Behavior-Analysis
 This project analyzes 3,900 customer shopping transactions to understand how customers buy, what they prefer, and which factors influence their spending. The analysis is done using Python, SQL, and Power BI to provide clear insights that can help in making better business decisions.
 
+
 ⭐ Project Highlights
 
 Studied customer demographics, shopping patterns, and product preferences
@@ -13,7 +14,9 @@ Compared spending based on age, gender, and subscription status
 
 Built a simple and interactive Power BI dashboard to visualize insights
 
+
 🧰 Tools Used
+
 🔹 Python
 
 Used for data cleaning, handling missing values, feature engineering, and initial exploration.
@@ -25,6 +28,7 @@ Used to answer business questions like top products, revenue comparison, subscri
 🔹 Power BI
 
 Used to build an interactive dashboard with KPIs, trends, segments, and product insights.
+
 
 📊 Key Insights
 
@@ -40,12 +44,14 @@ Product categories such as Clothing and Electronics have strong performance.
 
 Most missing ratings were handled using median category ratings.
 
+
 📁 What’s Inside the Repository
 ├── data/          → Dataset
 ├── notebooks/     → Python cleaning & EDA notebook
 ├── sql/           → SQL queries for business analysis
 ├── powerbi/       → Interactive Power BI dashboard
 └── README.md      → Project documentation
+
 
 🎯 Purpose of the Project
 
