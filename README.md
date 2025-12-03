@@ -45,14 +45,6 @@ Product categories such as Clothing and Electronics have strong performance.
 Most missing ratings were handled using median category ratings.
 
 
-📁 What’s Inside the Repository
-├── data/          → Dataset
-├── notebooks/     → Python cleaning & EDA notebook
-├── sql/           → SQL queries for business analysis
-├── powerbi/       → Interactive Power BI dashboard
-└── README.md      → Project documentation
-
-
 🎯 Purpose of the Project
 
 This project was created to practice real-world data analysis, combining multiple tools to produce meaningful insights that can support:
